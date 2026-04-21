@@ -13,3 +13,7 @@ cd Cyber-Companion-Bot-V2.0.0
   ```bash
 python Cyber-Companion-Bot-V2.0.0.py
 ```
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/Cyber-Companion-Bot-V2.0.0&type=Date)](https://star-history.com/#Iankulani/Cyber-Companion-Bot-V2.0.0&Date)
